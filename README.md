@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h1 align="center">Hello there 🥳 I'm Öznur ✨</h1>
 
 ###
@@ -10,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">I am a computer engineer developing myself in data science, machine learning, and deep learning.</p>
+<p align="center">I am a computer engineer developing myself in data science, machine learning, and deep learning.</p>
 
 ###
 
