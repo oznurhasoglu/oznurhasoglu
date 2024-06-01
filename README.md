@@ -1,16 +1,11 @@
-<br clear="both">
 
 <h1 align="center">Hello there 🥳 I'm Öznur ✨</h1>
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Junior Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 ###
-
-<br clear="both">
 
 <p align="center">I am a computer engineer developing myself in data science, machine learning, and deep learning.</p>
 
